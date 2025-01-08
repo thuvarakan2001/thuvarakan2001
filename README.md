@@ -1,4 +1,4 @@
-## About
+# About
 - 👋 Hi, I’m Thuvarakan
 - 👩🏻‍💻 Sharing my progress and insights from my data projects on GitHub
 - 👩🏻‍🎓 Studied Business Technology Management at the Toronto Metropolitan University(Ryerson University)
@@ -8,15 +8,15 @@
   - Email: thuva347@outlook.com 
   - Linkedin - https://www.linkedin.com/in/thuvarakansuntharalingam
 
-## Technical Skills 
+# Technical Skills 
 - Programming Languages: SQL, Python 
 - Data Visualization Tools: Tableau, PowerBI, Excel 
 - Big Data Platforms: Databricks, Teradata
 - Data Science Libraries: Pandas, NumPy, Seaborn
 
-## Projects
+# Projects
 Here are some projects I have worked on: 
-1. ### [Customer Churn Prediction with Python: Data Cleaning, Exploratory Data Analysis, and Predictive Modeling](https://pages.github.com/)
+1. ### [Customer Churn Prediction with Python: Data Cleaning, EDA, and Predictive Modeling](https://pages.github.com/)
   - Using Python data science libaries to build a predictive model to identify potential churners
   - Languages and Libraries used: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
