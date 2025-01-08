@@ -12,7 +12,7 @@
 - Programming Languages: SQL, Python 
 - Data Visualization Tools: Tableau, PowerBI, Excel 
 - Big Data Platforms: Databricks, Teradata
-- Data Science Libraries: Pandas, NumPy, Seaborn
+- Data Science/Python Libraries: Pandas, NumPy, Seaborn, pypyodbc, python-pptx
 
 # Projects
 Here are some projects I have worked on: 
@@ -24,7 +24,7 @@ Here are some projects I have worked on:
   - Using Yahoo! Finance's API to look into real time financial market data 
   - Languages and Libraries used: Python, Pandas, Numpy
 
-3. ### [Amazon Item Sales Analysis](https://github.com/thuvarakan2001/Amazon-Sales-Analysis/blob/main/Amazon%20EDA%20Sales%20Analysis.ipynb)
+3. ### [Amazon Product Review's Analysis](https://github.com/thuvarakan2001/Amazon-Sales-Analysis/blob/main/Amazon%20EDA%20Sales%20Analysis.ipynb)
   - Conducted Exploratory Data Analysis and Data Visualizations on an dataset containing 1k+ Amazon Product Ratings and Reviews 
   - Future Expansion: Build a Recommendation system
   - Languages and Libraries used: Python, Pandas, Numpy, Matplotlib, Seaborn
