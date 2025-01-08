@@ -2,11 +2,11 @@
 - 👋 Hi, I’m Thuvarakan
 - 👩🏻‍💻 Sharing my progress and insights from my data projects on GitHub
 - 👩🏻‍🎓 Studied Business Technology Management at the Toronto Metropolitan University(Ryerson University)
-- 👀 Currently interested in working in the field of Data and Business Analytics
+- 👀 Currently interested in working in the field of Data Analytics
 - 🌱 I'm looking to learn more about machine learning and data science
 - 📫 Reach me at: 
   - Email: thuva347@outlook.com 
-  - Linkedin - https://www.linkedin.com/in/thuvarakansuntharalingam
+  - Linkedin: https://www.linkedin.com/in/thuvarakansuntharalingam
 
 # Technical Skills 
 - Programming Languages: SQL, Python 
@@ -16,7 +16,7 @@
 
 # Projects
 Here are some projects I have worked on: 
-1. ### [Customer Churn Prediction with Python: Data Cleaning, EDA, and Predictive Modeling](https://pages.github.com/)
+1. ### [Customer Churn Prediction Model: Data Cleaning, EDA, and Predictive Modeling](https://github.com/thuvarakan2001/Customer-Churn)
   - Using Python data science libaries to build a predictive model to identify potential churners
   - Languages and Libraries used: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
