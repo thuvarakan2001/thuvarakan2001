@@ -20,7 +20,7 @@ Here are some projects I have worked on:
   - Using Python data science libaries to build a predictive model to identify potential churners
   - Languages and Libraries used: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
-2. ### [Yahoo! Financial Data Analysis](https://pages.github.com/)
+2. ### [Yahoo! Financial Data Analysis](https://github.com/thuvarakan2001/yahoo-finance)
   - Using Yahoo! Finance's API to look into real time financial market data 
   - Languages and Libraries used: Python, Pandas, Numpy
 
