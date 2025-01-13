@@ -25,10 +25,11 @@ Here are some projects I've worked on:
   - Highlights: Implemented data science and machine learning libraries within python to build logistic regression model
   - Languages and Libraries used: Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-Learn
 
-2. ### [Yahoo Finance Stock Analysis - Exploratory Data Analysis, Forecasting, Yahoo Finance API](https://github.com/thuvarakan2001/yahoo-finance)
+2. ### [Yahoo Finance Stock Analysis - Exploratory Data Analysis with Yahoo Finance API](https://github.com/thuvarakan2001/yahoo-finance)
   - Using Yahoo! Finance's API to look into real time financial and stock market data
-  - Challenge: Explore financial data and build a forecasting model using yahoo finance api
+  - Challenge: Explore financial data using yahoo finance api and provide analysis
   - Highlights: Utilized data science libraries in python to analyze real time stock market data
+  - Future Expansion: Using time-Series analysis and machine learning models build a forecasting model that can predict stock prices
   - Languages and Libraries used: Python, Pandas, Numpy
 
 3. ### [Amazon Product Review's Analysis](https://github.com/thuvarakan2001/Amazon-Sales-Analysis/blob/main/Amazon%20EDA%20Sales%20Analysis.ipynb)
